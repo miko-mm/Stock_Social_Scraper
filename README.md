@@ -13,4 +13,4 @@ and reddit-mentions for user-defined stocks
   - daily low
   - number of social-media-mentions
 
-
+Hanno was here
